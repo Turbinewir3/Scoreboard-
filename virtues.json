@@ -1,0 +1,8 @@
+{
+  "honesty": ["honest", "truth", "transparent", "truthful"],
+  "compassion": ["kind", "empathetic", "caring", "compassionate"],
+  "courage": ["brave", "courageous", "bold", "fearless"],
+  "humility": ["humble", "modest", "unpretentious", "meek"],
+  "integrity": ["integrity", "upright", "principled", "ethical"],
+  "respect": ["respect", "courteous", "considerate", "polite"]
+}
